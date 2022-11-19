@@ -1,0 +1,45 @@
+
+[ 
+    {
+        "id": 1,
+        "name": "Air ticketing",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/vjRk49P/ticketing.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Railway ticketing",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/6bvM8Hs/train.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Hotel Resveration",
+        "price": "150",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/KN0jL2S/hotel.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Foreign Exchange",
+        "price": "180",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/1ZkNPQT/exchange.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Car Hire Outstation",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/41zxJ52/car.jpg"
+    },
+    {
+        "id": 6,
+        "name": "traveler guidline",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://i.ibb.co/pnc34vm/traveller.jpg"
+    }
+]
