@@ -6,7 +6,7 @@ const MangageService = () => {
     const handleDelete=id=>{
         const proced=window.confirm("are you sure deleted this item")
         if (proced) {
-            const url=`http://localhost:7000/service/${id}`
+            const url=`https://fast-headland-27515.herokuapp.com/service/${id}`
             fetch(url,{
                 method:'DELETE'
           })

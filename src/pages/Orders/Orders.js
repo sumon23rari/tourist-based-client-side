@@ -12,7 +12,7 @@ const Orders = () => {
         const email=user?.email;
      
          const getOrders=async()=>{
-        const url=`http://localhost:7000/order?email=${email}`
+        const url=`https://fast-headland-27515.herokuapp.com/order?email=${email}`
         const {data}=await axios.get(url);
         setOrders(data);
     }

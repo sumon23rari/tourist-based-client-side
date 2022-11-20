@@ -19,7 +19,7 @@ const Checkout = () => {
             phone:event.target.number.value
         }
         console.log(order1)
-    //     const url=`http://localhost:7000/order`
+    //     const url=`https://fast-headland-27515.herokuapp.com/order`
     //    await fetch(url,{
     //         method:'POST',
     //         headers:{
@@ -29,7 +29,7 @@ const Checkout = () => {
     //     })
     //     .then(res=>res.json())
     //     .then(data=>console.log(data))
-       axios.post('http://localhost:7000/order',order1)
+       axios.post('https://fast-headland-27515.herokuapp.com/order',order1)
        .then(response=>{
         const {data}=response;
         if (data.insertedId) {
